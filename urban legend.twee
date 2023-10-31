@@ -1,0 +1,94 @@
+:: StoryTitle
+urban legend
+
+
+:: StoryData
+{
+  "ifid": "38B7E5AE-638F-4B2C-934B-7665F0C825E5",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "1st step",
+  "zoom": 1
+}
+
+
+:: 1st step {"position":"100,400","size":"100,100"}
+Do you wanna hear the urban legend?
+
+[[Im not sure, what is it about]]
+
+[[hmm probably not]]
+
+
+:: Im not sure, what is it about {"position":"300,400","size":"100,100"}
+Well this one is about a man in mexico, it is quite popular and it scares many people.
+
+[[Well then, yes]] 
+
+[[no im good]] 
+
+
+:: Okay fine, what is it? {"position":"500,200","size":"100,100"}
+<img src="https://64.media.tumblr.com/3efb3c0e3a6f609199df32786e67761e/tumblr_owd8zdlT7X1t8w4vxo2_1280.jpg"\>
+
+El Charro Negro is one of Mexico's most famous legends. According to the story, a wealthy man and lover of charrería committed all kinds of atrocities to make his enormous fortune. The man tried to flee his debt mounted on his horse and with a bag full of gold coins so that the Devil would not take it away; however, he was caught up and from then on he was condemned to wander in the bones and dressed as a charro charging the debtors of the Devil.
+
+[[oh wow, that's very interesting, but what does that have to do with me?]]
+
+[[aw man, i thought it would be scarier]]
+
+
+
+
+:: Well then, yes {"position":"500,300","size":"100,100"}
+<img src="https://64.media.tumblr.com/3efb3c0e3a6f609199df32786e67761e/tumblr_owd8zdlT7X1t8w4vxo2_1280.jpg"\>
+
+Very well then, El Charro Negro is one of Mexico's most famous legends. According to the story, a wealthy man and lover of charrería committed all kinds of atrocities to make his enormous fortune. The man tried to flee his debt mounted on his horse and with a bag full of gold coins so that the Devil would not take it away; however, he was caught up and from then on he was condemned to wander in the bones and dressed as a charro charging the debtors of the Devil.
+
+[[oh wow, that's very interesting, but what does that have to do with me?]] 
+
+[[aw man, i thought it would be scarier]] 
+
+
+:: Yeah i dont really care. {"position":"600,100","size":"100,100"}
+That's fine but when you lose all your earnings overnight you won't know how or why.
+
+[[Okay fine, what is it?]] 
+
+[[wow, okay]]
+
+
+:: aw man, i thought it would be scarier {"position":"700,300","size":"100,100"}
+//The end//
+
+
+:: hmm probably not {"position":"100,0","size":"100,100"}
+Are you sure? i heard it was bad luck to not beware of your surroundings. 
+[[how will you answer?]]
+
+
+:: how will you answer? {"position":"400,100","size":"100,100"}
+[[Okay fine, what is it?]]
+
+[[Yeah i dont really care.]]
+
+
+:: no im good {"position":"200,100","size":"100,100"}
+Are you sure? i heard it was bad luck to not beware of your surroundings. 
+[[how will you answer?]]
+
+
+:: oh wow, that's very interesting, but what does that have to do with me? {"position":"700,200","size":"100,100"}
+Well, it was said that there was a charro negro spotted near here so i am just spreading awareness.
+
+[[wow, okay]] 
+
+[[that's very cool]]
+
+
+:: that's very cool {"position":"900,300","size":"100,100"}
+thanks!
+
+
+:: wow, okay {"position":"900,100","size":"100,100"}
+//The end//
